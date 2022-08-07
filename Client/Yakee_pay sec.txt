@@ -1,0 +1,10 @@
+SECRETE_API_KEY = c12f2e01b52050b9c9de64b076e62515
+
+
+KEY = aad6e608d83290423f341a9e3526aef6
+
+API_KEY = aad6e608d83290423f341a9e3526aef6
+
+google client id = 647897343575-j7cm6ef89pej6qn6lusdufnm2jba6qg7.apps.googleusercontent.com
+
+google client secrete = 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
